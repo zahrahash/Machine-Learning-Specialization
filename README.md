@@ -11,4 +11,5 @@ This repository has been created to share the solutions of the assignments for t
 
  - [Week 1: Neural Networks for Binary Classification](https://github.com/zahrahash/Machine-Learning-Specialization/blob/main/C2_W1_Assignment%20(1).ipynb)
  - [Week 2: Neural Networks for Multiclass classification](https://github.com/zahrahash/Machine-Learning-Specialization/blob/main/C2_W2_Assignment.ipynb)
-  - [Week 3: Advice for Applying Machine Learning](https://github.com/zahrahash/Machine-Learning-Specialization/blob/main/C2_W3_Assignment.ipynb)
+ - [Week 3: Advice for Applying Machine Learning](https://github.com/zahrahash/Machine-Learning-Specialization/blob/main/C2_W3_Assignment.ipynb)
+ - [Week 4: Decision Trees](https://github.com/zahrahash/Machine-Learning-Specialization/blob/main/C2_W4_Decision_Tree_with_Markdown.ipynb)
